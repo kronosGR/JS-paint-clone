@@ -3,7 +3,7 @@
 * HTML
 * CSS
 * Javascript
-* 
+* Color picker ( http://jscolor.com)
 
 
 ## Live site
